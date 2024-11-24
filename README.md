@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
-<a href="https://twitter.com/AyoubSlmi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AyoubSlmi" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ayoub-selmi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayoub-selmi" height="30" width="30" /></a>&nbsp;<br><br>
 <img src="https://komarev.com/ghpvc/?username=AyoubSelmi&style=flat-square&color=blue" alt=""/>
 
